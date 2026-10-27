@@ -16,3 +16,4 @@ Concepts and test assignments, each with a live prototype. Not production code.
 | [flux-prototype](https://github.com/tirsistris/flux-prototype) | EUR-first crypto wallet for newcomers; every number from one source of truth | [demo](https://flux-concept.vercel.app) |
 | [tripsplit-prototype](https://github.com/tirsistris/tripsplit-prototype) | Shared-expense split inside a banking app; settlement computed from a ledger, checked by a test oracle | [demo](https://tripsplit-concept.vercel.app) |
 | [dispatch-3d](https://github.com/tirsistris/dispatch-3d) | Public transport dispatch: shift screen, district map, 3D replacement scenario | [demo](https://dispatch-3d.vercel.app) |
+| [ufuq-dunes](https://github.com/tirsistris/ufuq-dunes) | Neobank concept for Saudi Arabia: day/night, EN/AR (RTL), checked against Figma by scripts | [demo](https://ufuq-dunes.vercel.app) |
